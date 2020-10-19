@@ -2,14 +2,14 @@
 
 This repository contains the code for the process where I tried to replicate a project by a Japanese scientist who made a machine with 100% accuracy in defeating humans in the game of Stone-Paper-Scissors. The project employs techniques of convolutional neural networks and deep computer vision.
 
-I have used OpenCV for computer vision and Keras library for CNNS.
-Link to the video tutorial referred: https://www.youtube.com/watch?v=ecSDKWkktOw
+I have used OpenCV for computer vision and Keras library for CNNS.<br>
+Link to the video tutorial referred by me: https://www.youtube.com/watch?v=ecSDKWkktOw
 
 ### Requirements:
 
 1. Python 3.x
 2. <a href="https://tensorflow.org">TensorFlow 2.0</a>
-3. <a href="https://keras.io">Keras</a>
+3. <a href="https://keras.io">Keras API</a>
 4. OpenCV 4.0 (for loading and resizing images)
 5. h5py (for saving the trained model)
 6. Pyttsx3
